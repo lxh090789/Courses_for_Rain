@@ -1,6 +1,7 @@
 # Courses_for_Rain
 为梁晓华同学定制的课程列表
 
+
 ## git /github 教程
 
 1. [git 简介](/git.md)
@@ -22,5 +23,7 @@
 1. [存储过程](/Stored-Procedure.md)
 2. [事物](/Transaction.md)
 3. [触发器](/Trigger.md)
+4. [函数](/sql/function.md)
+5. [视图](/sql/view.md)
 
 <hr />
