@@ -120,4 +120,4 @@
 
 ### 7.[比较运算符](https://msdn.microsoft.com/zh-cn/library/ms188074.aspx)
 
-![比较运算符](/sql/1.png)
+![比较运算符](/img/1.png)
