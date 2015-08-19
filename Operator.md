@@ -74,17 +74,17 @@
         </tr>
 
         <tr>
-            <td>BETWEEN  </td>
-            <td>如果操作数在某个范围之内，那么就为 TRUE。 </td>
+            <td>BETWEEN</td>
+            <td>如果操作数在某个范围之内，那么就为 TRUE。</td>
         </tr>
 
         <tr>
-            <td>EXISTS </td>
-            <td>如果子查询包含一些行，那么就为 TRUE。 </td>
+            <td>EXISTS</td>
+            <td>如果子查询包含一些行，那么就为 TRUE。</td>
         </tr>
         <tr>
             <td>IN  </td>
-            <td>如果操作数等于表达式列表中的一个，那么就为 TRUE。</td>
+            <td>如果操作数等于表达式列表中的一个，那么就为TRUE。</td>
         </tr>
         <tr>
             <td>LIKE  </td>
@@ -92,20 +92,20 @@
         </tr>
         <tr>
             <td>NOT  </td>
-            <td>对任何其他布尔运算符的值取反。  </td>
+            <td>对任何其他布尔运算符的值取反。</td>
         </tr>
         <tr>
             <td>OR  </td>
             <td>如果两个布尔表达式中的一个为 TRUE，那么就为 TRUE。  </td>
         </tr>
         <tr>
-            <td>SOME </td>
+            <td>SOME</td>
             <td>如果在一组比较中，有些为 TRUE，那么就为 TRUE。 (等同于Any) </td>
         </tr>
     </tbody>
 </table>
 
-### 3.[赋值运算符](https://msdn.microsoft.com/zh-cn/library/ms188343.aspx
+### 3.[赋值运算符](https://msdn.microsoft.com/zh-cn/library/ms188343.aspx)
 
 ### 4.[作用域解析运算符](https://msdn.microsoft.com/zh-cn/library/dd206995.aspx)
 
@@ -124,6 +124,8 @@
 
 >具有 Boolean 数据类型的比较运算符的结果。  它有三个值：TRUE、FALSE 和 UNKNOWN。 返回 Boolean 数据类型的表达式称为布尔表达式。 
 >与其他 SQL Server 数据类型不同，Boolean 数据类型不能被指定为表列或变量的数据类型，也不能在结果集中返回。
+
+![优先级](/img/2.png)
 
 
 ### ......

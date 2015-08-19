@@ -1,0 +1,1 @@
+# [数据类型](https://msdn.microsoft.com/zh-cn/library/ms187752(v=sql.120).aspx)
