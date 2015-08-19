@@ -121,3 +121,9 @@
 ### 7.[比较运算符](https://msdn.microsoft.com/zh-cn/library/ms188074.aspx)
 
 ![比较运算符](/img/1.png)
+
+>具有 Boolean 数据类型的比较运算符的结果。  它有三个值：TRUE、FALSE 和 UNKNOWN。 返回 Boolean 数据类型的表达式称为布尔表达式。 
+>与其他 SQL Server 数据类型不同，Boolean 数据类型不能被指定为表列或变量的数据类型，也不能在结果集中返回。
+
+
+### ......
